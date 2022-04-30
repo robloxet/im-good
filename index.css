@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    border: 5px blue solid;
+    background-color: red;
+    padding: 15px;
+}
+nav {
+    border: 5px blue dotted;
+    background-color: yellow;
+    padding: 15px;
+}
+p {
+    border: blueviolet 10px double;
+    border-radius: 10%;
+}
+h1 {
+    background-color: greenyellow ;
+    border: 10px green dotted;
+}
+ol {
+    border: 7px royalblue dotted;
+    background-color:yellow ;
+}
